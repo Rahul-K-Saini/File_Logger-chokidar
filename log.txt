@@ -1,0 +1,4 @@
+File /home/rahulsaini/Documents/code/fileLogger Project/test/sa has been added at 7/12/2024, 9:59:25 PM
+File /home/rahulsaini/Documents/code/fileLogger Project/test/ca.sa has been added at 7/12/2024, 9:59:30 PM
+File /home/rahulsaini/Documents/code/fileLogger Project/test/sa has been deleted at 7/12/2024, 9:59:51 PM
+File /home/rahulsaini/Documents/code/fileLogger Project/test/ca.sa has been deleted at 7/12/2024, 9:59:54 PM
